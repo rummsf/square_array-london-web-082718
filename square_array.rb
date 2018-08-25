@@ -8,7 +8,7 @@ end
 #end
 
 #def square_array()
-  numbers.each do
-  puts Math.sqrt(numbers)
+  #numbers.each do
+  #puts Math.sqrt(numbers)
 #end
 #end 
