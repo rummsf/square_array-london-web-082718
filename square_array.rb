@@ -7,6 +7,6 @@ end
 
 def square_array(numbers)
   square_numbers = []
-  Math.sqrt(each)
+  puts Math.sqrt(each)
 end
 end 
