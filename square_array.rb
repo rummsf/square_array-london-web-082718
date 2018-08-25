@@ -6,6 +6,6 @@ def square_array(numbers)
 end
 
 def square_array([])
-  array.each
-  Math.sqrt
+  array.each do
+  puts Math.sqrt
 end
