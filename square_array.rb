@@ -5,7 +5,7 @@ def square_array(numbers)
   numbers.each 
 end
 
-def square_array(numbers)
+def square_array(array)
   array.each do
   puts Math.sqrt(array)
 end
