@@ -1,12 +1,12 @@
 def square_array(array)
 end
 
-def square_array(numbers)
+#def square_array(numbers)
   numbers.each 
-end
+#end
 
-def square_array()
+#def square_array()
   numbers.each do
   puts Math.sqrt(numbers)
-end
-end 
+#end
+#end 
