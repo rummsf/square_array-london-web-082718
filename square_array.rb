@@ -1,7 +1,7 @@
-def square_array(array)
+def square_array(numbers)
 end
 
-def square_array()
+def square_array(numbers)
   numbers.each 
 end
 
