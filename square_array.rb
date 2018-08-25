@@ -7,6 +7,6 @@ end
 
 def square_array(array)
   array.each do
-  puts Math.sqrt
+  puts Math.sqrt(array)
 end
 end 
