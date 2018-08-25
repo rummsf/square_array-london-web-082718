@@ -6,5 +6,5 @@ def square_array(numbers)
 end
 
 def square_array()
-  Square = Math.sqrt(array)
+  happy = Math.sqrt(array)
 end
